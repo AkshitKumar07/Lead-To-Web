@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Akshit Kumar</h1>
-<h3 align="center">☁️ Salesforce Developer | Java & Spring Boot Enthusiast from India 🇮🇳</h3>
+<h3 align="center">☁️ Salesforce Developer | Admin from India 🇮🇳</h3>
 
 ---
 
