@@ -13,6 +13,10 @@ function handleSubmit(event) {
   alert("Please check reCAPTCHA box to submit this lead");
   event.preventDefault();
 }
+function recaptchaSuccess() {
+  capthachecked = true;
+}
+
 }
 
   function timestamp() {
